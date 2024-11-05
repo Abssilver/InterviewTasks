@@ -1,5 +1,10 @@
 namespace InterviewTasks;
 
+/// <summary>
+/// 100.
+/// Given the roots of two binary trees p and q, write a function to check if they are the same or not.
+/// Two binary trees are considered the same if they are structurally identical, and the nodes have the same value.
+/// </summary>
 public class SameTree
 {
     public class TreeNode {
